@@ -24,10 +24,10 @@ Answer questions about the magical world of Harry Potter using Mistral-7B and Ch
 
 ---
 
-"I solemnly swear I am up to no good."
-
 ## **🚀 Installation & Setup**  
 
 ### **Prerequisites**  
 - Python 3.8+  
 - Hugging Face API Token (set as `HUGGINGFACE_API_TOKEN` in environment variables)  
+
+"I solemnly swear I am up to no good."
