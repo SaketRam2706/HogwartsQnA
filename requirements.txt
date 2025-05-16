@@ -1,0 +1,9 @@
+Flask
+flask-cors
+langchain
+langchain-chroma
+langchain-community
+sentence-transformers
+huggingface-hub
+chromadb
+python-dotenv
