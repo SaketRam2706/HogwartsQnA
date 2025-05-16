@@ -24,6 +24,8 @@ Answer questions about the magical world of Harry Potter using Mistral-7B and Ch
 
 ---
 
+"I solemnly swear I am up to no good."
+
 ## **🚀 Installation & Setup**  
 
 ### **Prerequisites**  
